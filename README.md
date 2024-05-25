@@ -6,6 +6,15 @@ Actualmente, me desempeño como Ingeniero Constructor y estoy expandiendo mis ha
 
 Mi objetivo es especializarme en tecnologías Python y Django, y convertirme en un desarrollador Full Stack altamente competente
 
+## 💼 Proyectos
+
+Inmuebles Empresa-Plus
+
+El proyecto es una aplicación web de gestión de inmuebles desarrollada con Django, diseñada para arrendadores y arrendatarios. Utiliza Bootstrap 5 para la presentación visual y facilita la gestión de propiedades inmobiliarias, incluyendo la creación, actualización y eliminación de inmuebles, así como la visualización de inmuebles disponibles para arrendar.
+
+https://github.com/gonliv/inmueblesEmpresa
+
+
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<g.olivaresca@gmail.com>**
