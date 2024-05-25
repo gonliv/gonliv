@@ -1,10 +1,10 @@
 # Hola 👋, soy Gonzalo Olivares
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Soy un Desarrollador de aplicaciones Full Stack en formación, especializado en Python 🐍 y su framework Django, así como en SQL (PostgreSQL).
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Actualmente, me desempeño como Ingeniero Constructor y estoy expandiendo mis habilidades en el desarrollo de software. He tenido la oportunidad de formarme gracias a programas como Talento Digital para Chile y Desafío Latam, donde he adquirido conocimientos tanto en Front-End como en Back-End. Además, estoy en proceso de obtener certificaciones relevantes que respalden mi expertise en estas áreas.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Mi objetivo es especializarme en tecnologías Python y Django, y convertirme en un desarrollador Full Stack altamente competente
 
 ## 📫 Contacto
 
