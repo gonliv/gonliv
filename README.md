@@ -1,10 +1,10 @@
 # Hola 👋, soy Gonzalo Olivares
 
-Soy un Desarrollador de aplicaciones Full Stack en formación, especializado en Python 🐍 y su framework Django, así como en SQL (PostgreSQL).
+Soy un Desarrollador de aplicaciones Full Stack, especializado en Python 🐍 y su framework Django, así como en SQL (PostgreSQL).
 
 Actualmente, me desempeño como Ingeniero Constructor y estoy expandiendo mis habilidades en el desarrollo de software. He tenido la oportunidad de formarme gracias a programas como Talento Digital para Chile y Desafío Latam, donde he adquirido conocimientos tanto en Front-End como en Back-End. Además, estoy en proceso de obtener certificaciones relevantes que respalden mi expertise en estas áreas.
 
-Mi objetivo es especializarme en tecnologías Python y Django, y convertirme en un desarrollador Full Stack altamente competente
+Mi objetivo a corto y largo plazo es especializarme en Python y convertirme en un desarrollador Full Stack altamente competente. Estoy entusiasmado por las oportunidades que el ámbito de la ciencia de datos y el desarrollo de software ofrecen, y estoy decidido a dedicarme a ello con compromiso.
 
 ## 💼 Proyectos
 
